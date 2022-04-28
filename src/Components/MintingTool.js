@@ -13,7 +13,7 @@ const MintingTool = (props) => {
           title: "Zoo Ticket",
           description: "Save The Zoo",
           media:
-            "https://bafybeiay4kdka53t3jayw53amgtqlto4hx3kmdkuknjpm4b2ilxbx6d5pu.ipfs.dweb.link/",
+            "https://bafybeiebejaj2jjqpnfstddeyaeycruc5mbmjbdjmdpvt3h6wkg76yuu4y.ipfs.dweb.link/",
         },
         receiver_id: window.accountId,
       },
