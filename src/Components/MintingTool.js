@@ -13,7 +13,7 @@ const MintingTool = (props) => {
           title: "Zoo Ticket",
           description: "Save The Zoo",
           media:
-            "https://bafybeiebejaj2jjqpnfstddeyaeycruc5mbmjbdjmdpvt3h6wkg76yuu4y.ipfs.dweb.link/",
+            "https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/278642724_3030299980521021_6628247165311104226_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=uzRaZitGLZ8AX_H4Fga&_nc_ht=scontent.fhan3-5.fna&oh=03_AVI-Wg9TR9U5KubtsqZoWed_lFHxsu8GxvO9CC9qDIj3dg&oe=628E2FE8",
         },
         receiver_id: window.accountId,
       },
