@@ -84,7 +84,7 @@ export default function App() {
           <div className="w-75 d-flex flex-column align-items-center p-5">
             <h2 style={{ textShadow: '2px 2px 5px  #000000', color: '#ffffff' }}>Welcome <b style={{color: '#ff9900'}}>{window.accountId || ''}</b>!!!</h2>
             <h1 style={{ textShadow: '2px 2px 5px  #000000', color: '#ffffff' }}>THE <span style={{color: '#ff9900'}}>ZOO TICKET</span> MINT!</h1>
-            <h3 style={{ textShadow: '1px 1px 3px #ffffff'}}>Find out <a style={{color: '#ff9900',textShadow: '1px 1px 3px #000000'}}  href="#">more</a></h3>
+            <h3 style={{ textShadow: '1px 1px 3px #ffffff'}}>Find out <a style={{color: '#ff9900',textShadow: '1px 1px 3px #000000'}}  href="https://medium.com/@thuyngoc.ftu97/ukraine-zoo-launch-party-on-the-metaverse-28526fc54a2c">more</a></h3>
           </div>
           <div className="w-75 d-flex border border-warning rounded"
                 style={{backgroundColor: 'rgba(12, 70, 19, 0.863)',
